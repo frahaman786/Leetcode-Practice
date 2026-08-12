@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1720-decode-xored-array) |
+| [1929-concatenation-of-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1720-decode-xored-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1720-decode-xored-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
