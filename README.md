@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/frahaman786/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/frahaman786/Leetcode-Practice/tree/master/0027-remove-element) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1720-decode-xored-array) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/frahaman786/Leetcode-Practice/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
