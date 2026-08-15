@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/frahaman786/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/frahaman786/Leetcode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/frahaman786/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/frahaman786/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0941-valid-mountain-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1470-shuffle-the-array) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/frahaman786/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/frahaman786/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/frahaman786/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [3046-split-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/frahaman786/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/frahaman786/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
