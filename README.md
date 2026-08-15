@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/frahaman786/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/frahaman786/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/frahaman786/Leetcode-Practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0941-valid-mountain-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1470-shuffle-the-array) |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/frahaman786/Leetcode-Practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
