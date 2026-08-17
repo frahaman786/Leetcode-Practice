@@ -106,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
