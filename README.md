@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/frahaman786/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/frahaman786/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/frahaman786/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0796-rotate-string) |
@@ -128,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
