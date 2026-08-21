@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/frahaman786/Leetcode-Practice/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/frahaman786/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0941-valid-mountain-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1470-shuffle-the-array) |
