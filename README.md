@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/frahaman786/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/frahaman786/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/frahaman786/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/frahaman786/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [3046-split-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/3046-split-the-array) |
 ## Quicksort
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/frahaman786/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/frahaman786/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
