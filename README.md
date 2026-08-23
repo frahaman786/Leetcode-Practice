@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/frahaman786/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/frahaman786/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/frahaman786/Leetcode-Practice/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/frahaman786/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-valid-mountain-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1470-shuffle-the-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/frahaman786/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/frahaman786/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/frahaman786/Leetcode-Practice/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/frahaman786/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/frahaman786/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/frahaman786/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/frahaman786/Leetcode-Practice/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/frahaman786/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
