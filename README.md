@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/frahaman786/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/frahaman786/Leetcode-Practice/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/frahaman786/Leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0434-number-of-segments-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
