@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/frahaman786/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/frahaman786/Leetcode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/frahaman786/Leetcode-Practice/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3046-split-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/frahaman786/Leetcode-Practice/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Stack
 |  |
 | ------- |
