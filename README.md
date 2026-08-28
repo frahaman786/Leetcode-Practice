@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/frahaman786/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
