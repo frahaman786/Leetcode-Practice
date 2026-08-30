@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/frahaman786/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/frahaman786/Leetcode-Practice/tree/master/0819-most-common-word) |
 | [0941-valid-mountain-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0941-valid-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1470-shuffle-the-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1720-decode-xored-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/frahaman786/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/frahaman786/Leetcode-Practice/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/frahaman786/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/frahaman786/Leetcode-Practice/tree/master/0506-relative-ranks) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
