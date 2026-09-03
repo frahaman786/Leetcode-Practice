@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/frahaman786/Leetcode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/frahaman786/Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/frahaman786/Leetcode-Practice/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/frahaman786/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/frahaman786/Leetcode-Practice/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/frahaman786/Leetcode-Practice/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/frahaman786/Leetcode-Practice/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
