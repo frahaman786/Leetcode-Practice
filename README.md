@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/frahaman786/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/frahaman786/Leetcode-Practice/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/frahaman786/Leetcode-Practice/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/frahaman786/Leetcode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/frahaman786/Leetcode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frahaman786/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/frahaman786/Leetcode-Practice/tree/master/0704-binary-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/frahaman786/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/frahaman786/Leetcode-Practice/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/frahaman786/Leetcode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/frahaman786/Leetcode-Practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0819-most-common-word](https://github.com/frahaman786/Leetcode-Practice/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/frahaman786/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/frahaman786/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/frahaman786/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/frahaman786/Leetcode-Practice/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/frahaman786/Leetcode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frahaman786/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 ## Counting Sort
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/frahaman786/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/frahaman786/Leetcode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/frahaman786/Leetcode-Practice/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/frahaman786/Leetcode-Practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/frahaman786/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/frahaman786/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/frahaman786/Leetcode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/frahaman786/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## String
