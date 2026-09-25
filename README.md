@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/frahaman786/Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/frahaman786/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/frahaman786/Leetcode-Practice/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/frahaman786/Leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0888-fair-candy-swap](https://github.com/frahaman786/Leetcode-Practice/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/frahaman786/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0941-valid-mountain-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/frahaman786/Leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/frahaman786/Leetcode-Practice/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/frahaman786/Leetcode-Practice/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/frahaman786/Leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/frahaman786/Leetcode-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
