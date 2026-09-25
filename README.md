@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/frahaman786/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/frahaman786/Leetcode-Practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/frahaman786/Leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
 | [0888-fair-candy-swap](https://github.com/frahaman786/Leetcode-Practice/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/frahaman786/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0941-valid-mountain-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/frahaman786/Leetcode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/frahaman786/Leetcode-Practice/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/frahaman786/Leetcode-Practice/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
 | [1720-decode-xored-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1720-decode-xored-array) |
 ## Simulation
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/frahaman786/Leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/frahaman786/Leetcode-Practice/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/frahaman786/Leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -310,5 +314,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/frahaman786/Leetcode-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
