@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
 | [0888-fair-candy-swap](https://github.com/frahaman786/Leetcode-Practice/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/frahaman786/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/frahaman786/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/frahaman786/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/frahaman786/Leetcode-Practice/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/frahaman786/Leetcode-Practice/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/frahaman786/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/frahaman786/Leetcode-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/frahaman786/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/frahaman786/Leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/frahaman786/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/frahaman786/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
