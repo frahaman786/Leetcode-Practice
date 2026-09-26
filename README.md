@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/frahaman786/Leetcode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/frahaman786/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/frahaman786/Leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/frahaman786/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/frahaman786/Leetcode-Practice/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/frahaman786/Leetcode-Practice/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/frahaman786/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/frahaman786/Leetcode-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/frahaman786/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/frahaman786/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
