@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/frahaman786/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/frahaman786/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/frahaman786/Leetcode-Practice/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -328,4 +329,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/frahaman786/Leetcode-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/frahaman786/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/frahaman786/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/frahaman786/Leetcode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
