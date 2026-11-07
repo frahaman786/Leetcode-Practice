@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/frahaman786/Leetcode-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/frahaman786/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
