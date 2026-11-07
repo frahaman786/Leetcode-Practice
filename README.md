@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/frahaman786/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1122-relative-sort-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/frahaman786/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/frahaman786/Leetcode-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/frahaman786/Leetcode-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/frahaman786/Leetcode-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/frahaman786/Leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/frahaman786/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/frahaman786/Leetcode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
