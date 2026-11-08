@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/frahaman786/Leetcode-Practice/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/frahaman786/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/frahaman786/Leetcode-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1903-largest-odd-number-in-string](https://github.com/frahaman786/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/frahaman786/Leetcode-Practice/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/frahaman786/Leetcode-Practice/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
