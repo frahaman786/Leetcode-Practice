@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/frahaman786/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/frahaman786/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/frahaman786/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/frahaman786/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/frahaman786/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/frahaman786/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/frahaman786/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/frahaman786/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/frahaman786/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/frahaman786/Leetcode-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/frahaman786/Leetcode-Practice/tree/master/0415-add-strings) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/frahaman786/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/frahaman786/Leetcode-Practice/tree/master/0832-flipping-an-image) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/frahaman786/Leetcode-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Tree
